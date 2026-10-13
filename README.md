@@ -2,7 +2,7 @@
 Former Navy helicopter pilot turned data scientist. The job titles changed; the habit of digging through the data to figure out what's actually going on didn't.
 
 ## Currently: 
-Pursuing a masters in Data Science at UB Berkeley. Working on a local LLM-powered personal finance tool (transactions stay on your machine — that's the point).
+Pursuing a masters in Data Science at UB Berkeley.
 
 ## How I got here: 
 Aerospace engineering undergrad → a decade flying helicopters and leading in the Navy → Haas MBA → supply chain and finance analytics at Lucid and Gallo → realizing the work I liked most was always the data problem underneath the business problem.
